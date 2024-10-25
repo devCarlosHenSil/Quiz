@@ -84,17 +84,17 @@ Este projeto está licenciado sob a GNU General Public License (GPL). Isso signi
 ## 🖼️ Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](/images/home.png)
+![Tela Inicial](/public/images/home.png)
 
 ### Tela de Perguntas
-![Tela de Perguntas](/images/question.png)
-![Tela de Perguntas - Resposta Correta](/images/question_correct.png)
-![Tela de Perguntas - Resposta Incorreta](/images/question_incorrect.png)
+![Tela de Perguntas](/public/images/question.png)
+![Tela de Perguntas - Resposta Correta](/public/images/question_correct.png)
+![Tela de Perguntas - Resposta Incorreta](/public/images/question_incorrect.png)
 
 Na tela de perguntas, um emoji é exibido ao lado da pergunta para indicar se a resposta foi correta ou incorreta.
 
 ### Tela de Resultados
-![Tela de Resultados](/images/result.png)
+![Tela de Resultados](/public/images/result.png)
 
 ## 📬 Contato
 
