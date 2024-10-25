@@ -2,27 +2,123 @@
     "questions": [
         {
             "image": "https://place-hold.it/1366x768",
-            "title": "Quando foi lançado o primeiro filme do homem de ferro?",
-            "description": "Considere somente os novos filmes da Marvel",
+            "title": "Qual é a capital de Portugal?",
+            "description": "Geografia de Portugal",
             "alternatives": [
-                "2020",
-                "2019",
-                "2015",
-                "2008"
+                "Porto",
+                "Lisboa",
+                "Faro",
+                "Coimbra"
+            ],
+            "answer": "1"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Em que ano Portugal se tornou uma república?",
+            "description": "História de Portugal",
+            "alternatives": [
+                "1910",
+                "1890",
+                "1925",
+                "1880"
+            ],
+            "answer": "0"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Qual é o ponto mais ocidental da Europa continental?",
+            "description": "Geografia de Portugal",
+            "alternatives": [
+                "Cabo Espichel",
+                "Cabo Roca",
+                "Cabo de São Vicente",
+                "Ilha da Madeira"
+            ],
+            "answer": "1"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Qual o prato tradicional de Portugal feito com bacalhau?",
+            "description": "Culinária de Portugal",
+            "alternatives": [
+                "Bacalhau à Brás",
+                "Feijoada",
+                "Caldeirada",
+                "Alheira"
+            ],
+            "answer": "0"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Que famoso navegador português foi o primeiro a chegar à Índia por via marítima?",
+            "description": "História de Portugal",
+            "alternatives": [
+                "Cristóvão Colombo",
+                "Pedro Álvares Cabral",
+                "Fernão de Magalhães",
+                "Vasco da Gama"
             ],
             "answer": "3"
         },
         {
             "image": "https://place-hold.it/1366x768",
-            "title": "Quando foi lançado o primeiro filme do homem de ferro?",
-            "description": "Considere somente os novos filmes da Marvel",
+            "title": "Qual é o rio mais longo que atravessa Portugal?",
+            "description": "Geografia de Portugal",
             "alternatives": [
-                "2020",
-                "2019",
-                "2015",
-                "2008"
+                "Tejo",
+                "Douro",
+                "Mondego",
+                "Guadiana"
+            ],
+            "answer": "0"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Qual é o maior arquipélago português?",
+            "description": "Geografia de Portugal",
+            "alternatives": [
+                "Madeira",
+                "Açores ",
+                "Berlengas",
+                "Selvagens"
+            ],
+            "answer": "1"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Quem foi o primeiro rei de Portugal?",
+            "description": "História de Portugal",
+            "alternatives": [
+                "D. Pedro II",
+                "D. João I",
+                "D. Afonso Henriques",
+                "D. Manuel I"
+            ],
+            "answer": "2"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Qual é a maior cidade de Portugal em termos de população?",
+            "description": "Geografia de Portugal",
+            "alternatives": [
+                "Porto",
+                "Faro",
+                "Braga",
+                "Lisboa"
             ],
             "answer": "3"
+        },
+        {
+            "image": "https://place-hold.it/1366x768",
+            "title": "Que estilo arquitetónico é mais associado aos monumentos portugueses do século XVI?",
+            "description": "História de portugal",
+            "alternatives": [
+                "Gótico",
+                "Manuelino",
+                "Barroco",
+                "Românico"
+            ],
+            "answer": "1"
         }
     ]
 }

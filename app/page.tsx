@@ -1,12 +1,13 @@
-import { TechLogoQuiz } from "./components/Techlogoquiz";
+"use client";
+import { useRouter } from "next/navigation";
+
+//import { TechLogoQuiz } from "./components/Techlogoquiz";
 import { Footer } from "./components/Footer";
 import { Card } from "./components/Card";
 
 import pageStyles from "./page.module.css";
-import Link from "next/link";
-
-
 export default function Page() {
+  const router = useRouter();
   return (
     <main className={pageStyles.screen} style={{ flex: 1 }}>
       <section className={pageStyles.container}>
@@ -17,21 +18,34 @@ export default function Page() {
             marginBottom: "24px"
           }}
         >
-          <TechLogoQuiz />
+          {/*<TechLogoQuiz />*/}
         </div>
 
         <Card
-          headerTitle="Teste vossa habilidade"
+          headerTitle="Teste o vosso conhecimento"
         >
           <p style={{ marginBottom: "32px" }}>
-            Teste o vosso conhecimento sobre o universo Marvel e divirta-se!
+            Teste o seu conhecimento sobre Portugal e divirta-se!
           </p>
-          <p>
-            FORMULÁRIO / BOTÃO
-          </p>
-          <Link href="/game">
-            Jogar
-          </Link>
+          <form
+            onSubmit={(event) => {
+              event.preventDefault();
+
+              const name = "Carlos";
+              router.push(`/game?player=${name}`)
+            }}
+          >
+            <div style={{ marginBottom: "24px" }}>
+              <input
+                type="text"
+                placeholder="Digite seu nome pra jogar :)"
+                name="playerName"
+              />
+            </div>
+            <button>
+              Jogar
+            </button>
+          </form>
         </Card>
         <Footer />
       </section>
