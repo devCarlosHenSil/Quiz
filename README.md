@@ -41,7 +41,7 @@ A motivação por trás do 'Descubra Portugal: O Quiz' foi a combinação de apl
     ```bash
     cd Quiz
 
-4. EeExecute o projeto:
+4. E execute o projeto:
     ```bash
     npm run dev
 
