@@ -52,23 +52,14 @@ O comando npm run dev instalará automaticamente as dependências do projeto.
     http://127.0.0.1:3000
 
 🤝 Como Contribuir
-Contribuições são bem-vindas! Para colaborar com o projeto, siga os passos abaixo:
 
-1. Fork o Repositório: Crie uma cópia do repositório em sua conta do GitHub.
+Contribuições são bem-vindas! Para colaborar com o projeto, acesse a documentação e siga os passos:
 
-2. Crie uma Branch: Crie uma nova branch para suas alterações:
-    ```bash
-    git checkout -b minha-feature
-
-3. Realize Suas Alterações: Faça suas alterações e adicione commits descritivos.
-
-4. Envie um Pull Request: Após concluir suas alterações, envie um Pull Request para a branch principal do repositório.
-
-Agradecemos por contribuir e ajudar a melhorar o projeto!
+Agradecemos por [contribuir](CONTRIBUTING.md) e ajudar a melhorar o projeto!
 
 📜 Licença
 
-Este projeto está licenciado sob a GNU General Public License (GPL). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma GPL. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
+Este projeto está licenciado sob a [GNU General Public License (GPL)](LICENSE.md). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma GPL. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
 
 ## 🔜 Próximos Passos
 
@@ -84,6 +75,7 @@ Este projeto está licenciado sob a GNU General Public License (GPL). Isso signi
 ## 🖼️ Capturas de Tela
 
 ### Tela Inicial
+
 ![Tela Inicial](/public/images/home.png)
 
 ### Tela de Perguntas
