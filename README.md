@@ -81,18 +81,25 @@ Este projeto está licenciado sob a GNU General Public License (GPL). Isso signi
 - 🔧 Continuar a evolução do projeto com novos aprimoramentos e funcionalidades.  
 
 
-🖼️ Capturas de Tela
+## 🖼️ Capturas de Tela
 
-Tela Inicial:
+### Tela Inicial
+![Tela Inicial](/images/home.png)
 
-Tela de Perguntas:
+### Tela de Perguntas
+![Tela de Perguntas](/images/question.png)
+![Tela de Perguntas - Resposta Correta](/images/question_correct.png)
+![Tela de Perguntas - Resposta Incorreta](/images/question_incorrect.png)
 
 Na tela de perguntas, um emoji é exibido ao lado da pergunta para indicar se a resposta foi correta ou incorreta.
 
-📬 Contato
+### Tela de Resultados
+![Tela de Resultados](/images/result.png)
+
+## 📬 Contato
 
 Se você tiver dúvidas, sugestões ou apenas quiser entrar em contato, sinta-se à vontade para me encontrar nas seguintes plataformas:
 
-E-mail: sh.carlos.henrique@gmail.com
-LinkedIn: Carlos Henrique Silva
-GitHub: devCarlosHenSil
+- E-mail: sh.carlos.henrique@gmail.com
+- LinkedIn: Carlos Henrique Silva
+- GitHub: devCarlosHenSil

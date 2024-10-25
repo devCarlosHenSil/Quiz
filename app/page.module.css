@@ -1,8 +1,8 @@
 .screen {
     background-size: cover;
     background-position: right center;
-    background-repeat: no-repeat; /* Garante que a imagem não se repita */
-    background-size: 50% 100%; /* A imagem ocupará 50% da largura e 100% da altura */
+    background-repeat: no-repeat; 
+    background-size: 40% 100%; /* A imagem ocupará 50% da largura e 100% da altura */
     padding-top: 40px;
     padding-left: 13px;
     padding-right: 13px;
