@@ -70,15 +70,15 @@ Agradecemos por contribuir e ajudar a melhorar o projeto!
 
 Este projeto está licenciado sob a GNU General Public License (GPL). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma GPL. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
 
-🔜 Próximos Passos
+## 🔜 Próximos Passos
+- 🔄 Converter o conteúdo do `global.css` em componentes.  
+- 📝 Exibir o nome do usuário definido na tela anterior na tela de resultados.  
+- 🛠️ Quebrar o `onSubmit` em funções menores para melhor organização do código.  
+- 📱 Criar um componente genérico que represente a tela.  
+- 📊 Desenvolver a tela de resultados para exibir o desempenho do usuário.  
+- ⏩ Implementar a funcionalidade de seleção de alternativas ao apertar ENTER ou Espaço.  
+- 🔧 Continuar a evolução do projeto com novos aprimoramentos e funcionalidades.  
 
-🔄 Converter o conteúdo do global.css em componentes.
-📝 Exibir o nome do usuário definido na tela anterior na tela de resultados.
-🛠️ Quebrar o onSubmit em funções menores para melhor organização do código.
-📱 Criar um componente genérico que represente a tela.
-📊 Desenvolver a tela de resultados para exibir o desempenho do usuário.
-⏩ Implementar a funcionalidade de seleção de alternativas ao apertar ENTER ou Espaço.
-🔧 Continuar a evolução do projeto com novos aprimoramentos e funcionalidades.
 
 🖼️ Capturas de Tela
 
