@@ -1,0 +1,12 @@
+.footer {
+display: flex;
+width: 135px;
+height: 67px;
+margin-top: 24px;
+gap: 22px;
+white-space: nowrap;
+}
+
+.footer p {
+    font-weight: bold;
+}
