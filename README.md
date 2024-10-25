@@ -71,6 +71,7 @@ Agradecemos por contribuir e ajudar a melhorar o projeto!
 Este projeto está licenciado sob a GNU General Public License (GPL). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma GPL. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
 
 ## 🔜 Próximos Passos
+
 - 🔄 Converter o conteúdo do `global.css` em componentes.  
 - 📝 Exibir o nome do usuário definido na tela anterior na tela de resultados.  
 - 🛠️ Quebrar o `onSubmit` em funções menores para melhor organização do código.  
