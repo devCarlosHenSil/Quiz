@@ -34,7 +34,7 @@ export default function GameScreen() {
         return _totalPoints;
       }, 0);
 
-      // DESAFIO: Pegar o nome do usuário definido na tela anterior e mostrar na tela final
+      // Pegar o nome do usuário definido na tela anterior e mostrar na tela final
       alert(`Você concluiu o desafio! e acertou ${totalPoints}`);
       router.push("/");
       return;
@@ -73,7 +73,7 @@ export default function GameScreen() {
               marginTop: "24px", 
             }}
             onSubmit={(event) => {
-              // DESAFIO: Quebrar o onSubmit em funções menores
+              // Quebrar o onSubmit em funções menores
               event.preventDefault();
               const $questionInfo = event.target as HTMLFormElement;
               const formData = new FormData($questionInfo);
@@ -136,5 +136,5 @@ export default function GameScreen() {
   );
 }
 
-// Desafio: Criar um componente genérico que representa nossa tela
-// Desafio: Criar a tela de resultados quando tiverem "acabado" as questões
+// Criar um componente genérico que representa nossa tela
+// Criar a tela de resultados quando tiverem "acabado" as questões

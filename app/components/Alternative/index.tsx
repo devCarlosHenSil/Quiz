@@ -7,7 +7,7 @@ interface AlternativeProps {
 
 export function Alternative(props: AlternativeProps) {
   const id = `alternative-${props.order}`;
-  // DESAFIO: Fazer com que ao apertar ENTER ou Espaço a alternativa seja selecionada
+  // Fazer com que ao apertar ENTER ou Espaço a alternativa seja selecionada
   return (
     <>
       <input
