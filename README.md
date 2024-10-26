@@ -61,7 +61,7 @@ Agradecemos por [contribuir](CONTRIBUTING.md) e ajudar a melhorar o projeto!
 
 📜 Licença
 
-Este projeto está licenciado sob a [MIT License)](LICENSE.md). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
+Este projeto está licenciado sob a [MIT License](LICENSE.md). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
 
 ## 🔜 Próximos Passos
 
