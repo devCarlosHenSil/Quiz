@@ -1,5 +1,7 @@
 # 🌍 **Descubra Portugal: O Quiz**
 
+![Static Badge](https://img.shields.io/badge/DevCarlos-Quiz-purple?style=flat) ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Quiz?style=flat&color=blue)
+
 ## 📖 Descrição
 
 **Descubra Portugal: O Quiz** é uma aplicação interativa que desafia os usuários com perguntas sobre geografia, história e curiosidades de Portugal. Teste seus conhecimentos e descubra mais sobre este belo país!
