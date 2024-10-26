@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/DevCarlos?style=flat)
 ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Quiz)
 
 # 🌍 **Descubra Portugal: O Quiz**
