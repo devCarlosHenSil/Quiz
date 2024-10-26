@@ -1,6 +1,6 @@
 # 🌍 **Descubra Portugal: O Quiz**
 
-![Static Badge](https://img.shields.io/badge/DevCarlos-Quiz-purple?style=flat) ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Quiz)
+![Static Badge](https://img.shields.io/badge/DevCarlos-Quiz-purple?style=flat) ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Quiz?style=flat&color=blue)
 
 ## 📖 Descrição
 
