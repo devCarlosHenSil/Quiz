@@ -90,10 +90,10 @@ Na tela de perguntas, um emoji é exibido ao lado da pergunta para indicar se a 
 ### Tela de Resultados
 ![Tela de Resultados](/public/images/result.png)
 
-## 📬 Contato
+## 📫 Contato
 
-Se você tiver dúvidas, sugestões ou apenas quiser entrar em contato, sinta-se à vontade para me encontrar nas seguintes plataformas:
+Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato:
 
-- E-mail: sh.carlos.henrique@gmail.com
-- LinkedIn: Carlos Henrique Silva
-- GitHub: devCarlosHenSil
+- **E-mail**: [sh.carlos.henrique@gmail.com](mailto:sh.carlos.henrique@gmail.com)
+- **LinkedIn**: [Carlos Henrique Silva](https://www.linkedin.com/in/carlos-henrique-silva-dev/)
+- **GitHub**: [devCarlosHenSil](https://github.com/devCarlosHenSil)
