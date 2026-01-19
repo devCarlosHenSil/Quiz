@@ -1,99 +1,94 @@
-# 🌍 **Descubra Portugal: O Quiz**
+# ❓ Quiz Interativo
 
-![Static Badge](https://img.shields.io/badge/DevCarlos-Quiz-purple?style=flat) ![GitHub License](https://img.shields.io/github/license/devCarlosHenSil/Quiz?style=flat&color=blue)
+Aplicação de **Quiz interativo**, desenvolvida com **React, Next.js e TypeScript**, com foco em componentização, gerenciamento de estado e boas práticas de front-end moderno.
 
-## 📖 Descrição
+---
 
-**Descubra Portugal: O Quiz** é uma aplicação interativa que desafia os usuários com perguntas sobre geografia, história e curiosidades de Portugal. Teste seus conhecimentos e descubra mais sobre este belo país!
+## 📌 Objetivo do Projeto
 
-## 💡 Motivação
+Este projeto foi criado para praticar:
 
-A motivação por trás do 'Descubra Portugal: O Quiz' foi a combinação de aplicar conceitos técnicos e criar um portfólio interessante, enquanto aprendo sobre Portugal, o país onde planejo buscar oportunidades de emprego e me tornar cidadão. Juntei o útil ao agradável, e foi uma experiência incrível explorar mais sobre essa bela nação.
+* Desenvolvimento com React e Next.js
+* Componentização e reutilização de código
+* Tipagem com TypeScript
+* Gerenciamento de estado
+* Estruturação de uma aplicação front-end moderna
 
-## ✅ Funcionalidades
-
-- 📋 Coleta o nome do usuário para personalizar a experiência.
-- ✔️ Exibe a quantidade de perguntas corretas no final do quiz.
-- 🎉 Indica o acerto ou erro de cada resposta com emojis.
-- 📊 Proporciona uma experiência simples e interativa, demonstrando conceitos diversos de um quiz de perguntas e respostas, incluindo sistema de pontuação.
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Node.js**: 🟢 Ambiente de execução para o JavaScript no servidor.
-- **React**: ⚛️ Biblioteca JavaScript para construir interfaces de usuário.
-- **Next.js**: ⚡ Framework para React que permite renderização do lado do servidor.
-- **JavaScript**: ✨ Linguagem de programação utilizada para a lógica do projeto.
-- **TypeScript**: 📝 Superconjunto do JavaScript que adiciona tipagem estática.
-- **HTML5**: 📄 Estrutura da aplicação.
-- **CSS3**: 🎨 Estilo da aplicação.
-- **Figma**: 📐 Ferramenta utilizada para o desenvolvimento do layout, aplicando conceitos de UI/UX.
-- **Bibliotecas do React e Next.js**: 📚 Para funcionalidades adicionais e melhor experiência do usuário.
+* React
+* Next.js
+* TypeScript
+* CSS Modules
 
-## 🚀 Como Executar
+---
 
-1. Certifique-se de que o **Node.js** (na versão LTS) e o **npm** estão instalados na sua máquina.
+## ✨ Funcionalidades
 
-2. Clone o repositório do projeto:
+* Exibição dinâmica de perguntas e respostas
+* Controle de pontuação
+* Navegação entre perguntas
+* Feedback visual para respostas corretas e incorretas
+* Interface simples e responsiva
 
-   ```bash
-   git clone https://github.com/devCarlosHenSil/Quiz.git
+---
 
-3. Navegue até o diretório do projeto:
+## ▶️ Como executar o projeto localmente
 
-    ```bash
-    cd Quiz
+1. Clone este repositório:
 
-4. E execute o projeto:
-    ```bash
-    npm run dev
+```bash
+git clone https://github.com/devCarlosHenSil/Quiz.git
+```
 
-O comando npm run dev instalará automaticamente as dependências do projeto.
+2. Acesse a pasta do projeto:
 
-5. Acesse a aplicação no seu navegador, preferencialmente em:
-    ```bash
-    http://127.0.0.1:3000
+```bash
+cd Quiz
+```
 
-🤝 Como Contribuir
+3. Instale as dependências:
 
-Contribuições são bem-vindas! Para colaborar com o projeto, acesse a documentação e siga os passos:
+```bash
+npm install
+```
 
-Agradecemos por [contribuir](CONTRIBUTING.md) e ajudar a melhorar o projeto!
+4. Execute o projeto:
 
-📜 Licença
+```bash
+npm run dev
+```
 
-Este projeto está licenciado sob a [MIT License](LICENSE.md). Isso significa que você é livre para usar, modificar e redistribuir o código, desde que qualquer trabalho derivado também seja licenciado sob a mesma. Para mais detalhes, consulte o arquivo LICENSE neste repositório.
+5. Acesse no navegador:
 
-## 🔜 Próximos Passos
+```
+http://localhost:3000
+```
 
-- 🔄 Converter o conteúdo do `global.css` em componentes.  
-- 📝 Exibir o nome do usuário definido na tela anterior na tela de resultados.  
-- 🛠️ Quebrar o `onSubmit` em funções menores para melhor organização do código.  
-- 📱 Criar um componente genérico que represente a tela.  
-- 📊 Desenvolver a tela de resultados para exibir o desempenho do usuário.  
-- ⏩ Implementar a funcionalidade de seleção de alternativas ao apertar ENTER ou Espaço.  
-- 🔧 Continuar a evolução do projeto com novos aprimoramentos e funcionalidades.  
+---
 
+## 📚 O que aprendi com este projeto
 
-## 🖼️ Capturas de Tela
+* Organização de componentes em React
+* Uso de TypeScript para maior segurança no código
+* Separação de lógica e apresentação
+* Estrutura de projetos com Next.js
+* Boas práticas de front-end
 
-### Tela Inicial
+---
 
-![Tela Inicial](/public/images/home.png)
+## 🚀 Próximas melhorias
 
-### Tela de Perguntas
-![Tela de Perguntas](/public/images/question.png)
-![Tela de Perguntas - Resposta Correta](/public/images/question_correct.png)
-![Tela de Perguntas - Resposta Incorreta](/public/images/question_incorrect.png)
+* Criar hooks customizados para a lógica do quiz
+* Implementar testes unitários
+* Adicionar ranking de pontuação
+* Deploy em produção (Vercel)
 
-Na tela de perguntas, um emoji é exibido ao lado da pergunta para indicar se a resposta foi correta ou incorreta.
+---
 
-### Tela de Resultados
-![Tela de Resultados](/public/images/result.png)
+## 👨‍💻 Autor
 
-## 📫 Contato
-
-Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato:
-
-- **E-mail**: [sh.carlos.henrique@gmail.com](mailto:sh.carlos.henrique@gmail.com)
-- **LinkedIn**: [Carlos Henrique Silva](https://www.linkedin.com/in/carlos-henrique-silva-dev/)
-- **GitHub**: [devCarlosHenSil](https://github.com/devCarlosHenSil)
+Carlos Henrique Silva
+[GitHub](https://github.com/devCarlosHenSil)
